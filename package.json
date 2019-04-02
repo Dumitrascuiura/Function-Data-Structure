@@ -1,0 +1,22 @@
+{
+  "name": "function-data-structure",
+  "version": "1.0.0",
+  "description": "lesson 18",
+  "main": "function.js",
+  "scripts": {
+    "lint": "eslint '*.js'",
+    "pretest": "npm run lint",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dumitrascuiura/Function-Data-Structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dumitrascuiura/Function-Data-Structure/issues"
+  },
+  "homepage": "https://github.com/Dumitrascuiura/Function-Data-Structure#readme"
+}
